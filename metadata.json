@@ -1,0 +1,6 @@
+{
+  "name": "SADARPJOK - Pemantauan Aktivitas Olahraga Siswa",
+  "description": "Aplikasi SADARPJOK untuk memantau aktivitas olahraga siswa secara real-time dan sistematis, tes kebugaran jasmani, dan evaluasi PJOK terpadu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
